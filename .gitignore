@@ -17,3 +17,5 @@ yarn-error.log
 
 # config files
 .env.local
+
+.history
